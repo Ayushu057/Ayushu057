@@ -10,6 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayushu057&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ayushu057&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayushu057&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushu057&layout=compact&theme=vision-friendly-dark&hide_border=false&langs_count=6&exclude_repo=repo1,repo2)
 
