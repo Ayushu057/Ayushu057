@@ -10,5 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayushu057&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ayushu057&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushu057&layout=compact&theme=vision-friendly-dark&hide_border=false&langs_count=6&exclude_repo=repo1,repo2)
+## 🧠 Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=postgresql&logoColor=white)
 
